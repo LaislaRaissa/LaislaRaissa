@@ -4,9 +4,6 @@
   
 
 - 👨‍💻 Cursando Técnico em Desenvolvimento de Sistemas no Senai
-- 📫 Contacte-me no email: 
-- 😄 Pronouns: ele/dele
-- ❤  Apaixonado por Tecnologia e Programação
 
 ## ♦ Linguagens e Ferramentas
 
@@ -27,14 +24,4 @@
   <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaislaRaissa&layout=compact&theme=tokyonight"> 
   </div>
 
-## ♦ Vamos nos Conectar!
 
-<div> 
-  
-  Fique à vontade para entrar em contato comigo! Vamos trocar ideias e conhecimento.
-  
-  <a href = ""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  
-</div>
